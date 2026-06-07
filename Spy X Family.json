@@ -1,0 +1,46 @@
+{
+  "project_variables": {
+    "manga_name": "Spy x Family",
+    "website_name": "Spy x Family Online",
+    "domain": "https://readspyxfamily.org/",
+    "google_tag_id": "G-NXKN3VT9XD",
+    "chapter_count": 100
+  },
+  "visual_identity": {
+    "primary_color": "#064e3b", 
+    "secondary_color": "#fef3c7",
+    "accent_color": "#991b1b",
+    "dark_bg": "#050505",
+    "font_heading": "'DM Serif Display', serif",
+    "font_body": "'Public Sans', sans-serif",
+    "ui_style": "Cold War Dossier / Mid-Century Minimalist"
+  },
+  "antigravity_skill_orchestration": {
+    "active_skills": [
+      "antigravity-design-expert",
+      "tailwind-patterns",
+      "seo-programmatic",
+      "performance-optimizer",
+      "ui-ux-pro-max"
+    ],
+    "directives": "Utilize 'antigravity-design-expert' to implement a 'Dossier' card system. Use 'tailwind-patterns' for elegant retro-typography. Direct 'performance-optimizer' to ensure the high-detail Tatsuya Endo art loads with zero layout shift."
+  },
+  "generation_prompts": {
+    "landing_page_ui": "Build a 'Secret Agent Terminal' UI with Tailwind CSS 4.1. 1. HERO: A cinematic composition of the Forger family in a high-contrast 'spy silhouette' style. Title 'SPY x FAMILY ONLINE' in elegant 'DM Serif' with a subtle ink-stamp texture. 2. CHAPTER GRID: Design cards styled as 'Classified Envelopes'. Each card features a manila folder texture, a 'Confidential' watermark, and a paper-clip icon holding the chapter thumbnail. 3. NAV: A clean, minimalist top bar with 'Mission' (Chapters), 'Intel' (About), and 'Secure Line' (Contact) links.",
+    "seo_geo_strategy": "Activate 'seo-geo' and 'ai-seo' to target Global regions. Generate localized meta-tags for 'Read Spy x Family Manga Online' and 'Loid Forger Mission Analysis'. Inject 'ComicSeries' JSON-LD to secure rich snippets in Google Search.",
+    "technical_files": "Generate a compliant robots.txt, a dynamic sitemap.xml for all chapters, and a .htaccess for optimized asset delivery. Use 'seo-sitemap' to prioritize the latest missions."
+  },
+  "technical_architectures": {
+    "image_workflow": "Convert all chapter scans to AVIF via 'python-performance-optimization'. Implement 'Progressive Blur' loading for the elegant double-page spreads. Use 'Intersection Observer' for seamless vertical scrolling.",
+    "tag_integration": "Inject G-NXKN3VT9XD tracking. Set up 'Anya Reaction' events (tracking clicks on specific high-engagement panels) to measure user interaction."
+  },
+  "design_aesthetics": {
+    "feel": "Sophisticated, Mysterious, Clean, Retro-Modern",
+    "interactive_elements": [
+      "Dossier Open: Chapter cards 'unfold' with a paper-opening sound and animation on hover.",
+      "Redacted Text: Footer links appear as 'Blacked Out' text that reveals on hover.",
+      "Stella Star Progress: A custom scrollbar featuring a glowing 'Stella Star' that moves as you read.",
+      "Telepathic Ripple: Subtle 'mind-wave' circular ripples emanating from Anya's position in the hero section."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Spy X Family Portal",
+  "short_name": "Strix Portal",
+  "description": "Operation Strix Intelligence Hub - Read Spy X Family Online",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

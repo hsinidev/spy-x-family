@@ -1,0 +1,2393 @@
+
+            <a href="chapters/chapter-184.html" class="dossier-card-wrap mission-item" data-id="184" data-title="MISSION 184">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-184</div>
+                    <h3 class="dossier-title">MISSION 184</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: OPEN</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-183.html" class="dossier-card-wrap mission-item" data-id="183" data-title="MISSION 183">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-183</div>
+                    <h3 class="dossier-title">MISSION 183</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: OPEN</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-182.html" class="dossier-card-wrap mission-item" data-id="182" data-title="MISSION 182">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-182</div>
+                    <h3 class="dossier-title">MISSION 182</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: OPEN</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-181.html" class="dossier-card-wrap mission-item" data-id="181" data-title="MISSION 181">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-181</div>
+                    <h3 class="dossier-title">MISSION 181</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: OPEN</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-180.html" class="dossier-card-wrap mission-item" data-id="180" data-title="MISSION 180">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-180</div>
+                    <h3 class="dossier-title">MISSION 180</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-179.html" class="dossier-card-wrap mission-item" data-id="179" data-title="MISSION 179">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-179</div>
+                    <h3 class="dossier-title">MISSION 179</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-178.html" class="dossier-card-wrap mission-item" data-id="178" data-title="MISSION 178">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-178</div>
+                    <h3 class="dossier-title">MISSION 178</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-177.html" class="dossier-card-wrap mission-item" data-id="177" data-title="MISSION 177">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-177</div>
+                    <h3 class="dossier-title">MISSION 177</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-176.html" class="dossier-card-wrap mission-item" data-id="176" data-title="MISSION 176">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-176</div>
+                    <h3 class="dossier-title">MISSION 176</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-175.html" class="dossier-card-wrap mission-item" data-id="175" data-title="MISSION 175">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-175</div>
+                    <h3 class="dossier-title">MISSION 175</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-174.html" class="dossier-card-wrap mission-item" data-id="174" data-title="MISSION 174">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-174</div>
+                    <h3 class="dossier-title">MISSION 174</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-173.html" class="dossier-card-wrap mission-item" data-id="173" data-title="MISSION 173">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-173</div>
+                    <h3 class="dossier-title">MISSION 173</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-172.html" class="dossier-card-wrap mission-item" data-id="172" data-title="MISSION 172">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-172</div>
+                    <h3 class="dossier-title">MISSION 172</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-171.html" class="dossier-card-wrap mission-item" data-id="171" data-title="MISSION 171">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-171</div>
+                    <h3 class="dossier-title">MISSION 171</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-170.html" class="dossier-card-wrap mission-item" data-id="170" data-title="MISSION 170">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-170</div>
+                    <h3 class="dossier-title">MISSION 170</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-169.html" class="dossier-card-wrap mission-item" data-id="169" data-title="MISSION 169">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-169</div>
+                    <h3 class="dossier-title">MISSION 169</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-168.html" class="dossier-card-wrap mission-item" data-id="168" data-title="MISSION 168">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-168</div>
+                    <h3 class="dossier-title">MISSION 168</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-167.html" class="dossier-card-wrap mission-item" data-id="167" data-title="MISSION 167">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-167</div>
+                    <h3 class="dossier-title">MISSION 167</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-166.html" class="dossier-card-wrap mission-item" data-id="166" data-title="MISSION 166">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-166</div>
+                    <h3 class="dossier-title">MISSION 166</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-165.html" class="dossier-card-wrap mission-item" data-id="165" data-title="MISSION 165">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-165</div>
+                    <h3 class="dossier-title">MISSION 165</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-164.html" class="dossier-card-wrap mission-item" data-id="164" data-title="MISSION 164">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-164</div>
+                    <h3 class="dossier-title">MISSION 164</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-163.html" class="dossier-card-wrap mission-item" data-id="163" data-title="MISSION 163">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-163</div>
+                    <h3 class="dossier-title">MISSION 163</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-162.html" class="dossier-card-wrap mission-item" data-id="162" data-title="MISSION 162">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-162</div>
+                    <h3 class="dossier-title">MISSION 162</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-161.html" class="dossier-card-wrap mission-item" data-id="161" data-title="MISSION 161">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-161</div>
+                    <h3 class="dossier-title">MISSION 161</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-160.html" class="dossier-card-wrap mission-item" data-id="160" data-title="MISSION 160">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-160</div>
+                    <h3 class="dossier-title">MISSION 160</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-159.html" class="dossier-card-wrap mission-item" data-id="159" data-title="MISSION 159">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-159</div>
+                    <h3 class="dossier-title">MISSION 159</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-158.html" class="dossier-card-wrap mission-item" data-id="158" data-title="MISSION 158">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-158</div>
+                    <h3 class="dossier-title">MISSION 158</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-157.html" class="dossier-card-wrap mission-item" data-id="157" data-title="MISSION 157">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-157</div>
+                    <h3 class="dossier-title">MISSION 157</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-156.html" class="dossier-card-wrap mission-item" data-id="156" data-title="MISSION 156">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-156</div>
+                    <h3 class="dossier-title">MISSION 156</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-155.html" class="dossier-card-wrap mission-item" data-id="155" data-title="MISSION 155">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-155</div>
+                    <h3 class="dossier-title">MISSION 155</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-154.html" class="dossier-card-wrap mission-item" data-id="154" data-title="MISSION 154">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-154</div>
+                    <h3 class="dossier-title">MISSION 154</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-153.html" class="dossier-card-wrap mission-item" data-id="153" data-title="MISSION 153">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-153</div>
+                    <h3 class="dossier-title">MISSION 153</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-152.html" class="dossier-card-wrap mission-item" data-id="152" data-title="MISSION 152">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-152</div>
+                    <h3 class="dossier-title">MISSION 152</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-151.html" class="dossier-card-wrap mission-item" data-id="151" data-title="MISSION 151">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-151</div>
+                    <h3 class="dossier-title">MISSION 151</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-150.html" class="dossier-card-wrap mission-item" data-id="150" data-title="MISSION 150">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-150</div>
+                    <h3 class="dossier-title">MISSION 150</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-149.html" class="dossier-card-wrap mission-item" data-id="149" data-title="MISSION 149">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-149</div>
+                    <h3 class="dossier-title">MISSION 149</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-148.html" class="dossier-card-wrap mission-item" data-id="148" data-title="MISSION 148">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-148</div>
+                    <h3 class="dossier-title">MISSION 148</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-147.html" class="dossier-card-wrap mission-item" data-id="147" data-title="MISSION 147">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-147</div>
+                    <h3 class="dossier-title">MISSION 147</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-146.html" class="dossier-card-wrap mission-item" data-id="146" data-title="MISSION 146">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-146</div>
+                    <h3 class="dossier-title">MISSION 146</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-145.html" class="dossier-card-wrap mission-item" data-id="145" data-title="MISSION 145">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-145</div>
+                    <h3 class="dossier-title">MISSION 145</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-144.html" class="dossier-card-wrap mission-item" data-id="144" data-title="MISSION 144">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-144</div>
+                    <h3 class="dossier-title">MISSION 144</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-143.html" class="dossier-card-wrap mission-item" data-id="143" data-title="MISSION 143">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-143</div>
+                    <h3 class="dossier-title">MISSION 143</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-142.html" class="dossier-card-wrap mission-item" data-id="142" data-title="MISSION 142">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-142</div>
+                    <h3 class="dossier-title">MISSION 142</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-141.html" class="dossier-card-wrap mission-item" data-id="141" data-title="MISSION 141">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-141</div>
+                    <h3 class="dossier-title">MISSION 141</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-140.html" class="dossier-card-wrap mission-item" data-id="140" data-title="MISSION 140">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-140</div>
+                    <h3 class="dossier-title">MISSION 140</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-139.html" class="dossier-card-wrap mission-item" data-id="139" data-title="MISSION 139">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-139</div>
+                    <h3 class="dossier-title">MISSION 139</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-138.html" class="dossier-card-wrap mission-item" data-id="138" data-title="MISSION 138">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-138</div>
+                    <h3 class="dossier-title">MISSION 138</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-137.html" class="dossier-card-wrap mission-item" data-id="137" data-title="MISSION 137">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-137</div>
+                    <h3 class="dossier-title">MISSION 137</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-136.html" class="dossier-card-wrap mission-item" data-id="136" data-title="MISSION 136">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-136</div>
+                    <h3 class="dossier-title">MISSION 136</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-135.html" class="dossier-card-wrap mission-item" data-id="135" data-title="MISSION 135">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-135</div>
+                    <h3 class="dossier-title">MISSION 135</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-134.html" class="dossier-card-wrap mission-item" data-id="134" data-title="MISSION 134">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-134</div>
+                    <h3 class="dossier-title">MISSION 134</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-133.html" class="dossier-card-wrap mission-item" data-id="133" data-title="MISSION 133">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-133</div>
+                    <h3 class="dossier-title">MISSION 133</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-132.html" class="dossier-card-wrap mission-item" data-id="132" data-title="MISSION 132">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-132</div>
+                    <h3 class="dossier-title">MISSION 132</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-131.html" class="dossier-card-wrap mission-item" data-id="131" data-title="MISSION 131">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-131</div>
+                    <h3 class="dossier-title">MISSION 131</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-130.html" class="dossier-card-wrap mission-item" data-id="130" data-title="MISSION 130">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-130</div>
+                    <h3 class="dossier-title">MISSION 130</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-129.html" class="dossier-card-wrap mission-item" data-id="129" data-title="MISSION 129">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-129</div>
+                    <h3 class="dossier-title">MISSION 129</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-128.html" class="dossier-card-wrap mission-item" data-id="128" data-title="MISSION 128">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-128</div>
+                    <h3 class="dossier-title">MISSION 128</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-127.html" class="dossier-card-wrap mission-item" data-id="127" data-title="MISSION 127">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-127</div>
+                    <h3 class="dossier-title">MISSION 127</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-126.html" class="dossier-card-wrap mission-item" data-id="126" data-title="MISSION 126">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-126</div>
+                    <h3 class="dossier-title">MISSION 126</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-125.html" class="dossier-card-wrap mission-item" data-id="125" data-title="MISSION 125">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-125</div>
+                    <h3 class="dossier-title">MISSION 125</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-124.html" class="dossier-card-wrap mission-item" data-id="124" data-title="MISSION 124">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-124</div>
+                    <h3 class="dossier-title">MISSION 124</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-123.html" class="dossier-card-wrap mission-item" data-id="123" data-title="MISSION 123">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-123</div>
+                    <h3 class="dossier-title">MISSION 123</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-122.html" class="dossier-card-wrap mission-item" data-id="122" data-title="MISSION 122">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-122</div>
+                    <h3 class="dossier-title">MISSION 122</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-121.html" class="dossier-card-wrap mission-item" data-id="121" data-title="MISSION 121">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-121</div>
+                    <h3 class="dossier-title">MISSION 121</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-120.html" class="dossier-card-wrap mission-item" data-id="120" data-title="MISSION 120">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-120</div>
+                    <h3 class="dossier-title">MISSION 120</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-119.html" class="dossier-card-wrap mission-item" data-id="119" data-title="MISSION 119">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-119</div>
+                    <h3 class="dossier-title">MISSION 119</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-118.html" class="dossier-card-wrap mission-item" data-id="118" data-title="MISSION 118">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-118</div>
+                    <h3 class="dossier-title">MISSION 118</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-117.html" class="dossier-card-wrap mission-item" data-id="117" data-title="MISSION 117">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-117</div>
+                    <h3 class="dossier-title">MISSION 117</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-116.html" class="dossier-card-wrap mission-item" data-id="116" data-title="MISSION 116">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-116</div>
+                    <h3 class="dossier-title">MISSION 116</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-115.html" class="dossier-card-wrap mission-item" data-id="115" data-title="MISSION 115">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-115</div>
+                    <h3 class="dossier-title">MISSION 115</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-114.html" class="dossier-card-wrap mission-item" data-id="114" data-title="MISSION 114">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-114</div>
+                    <h3 class="dossier-title">MISSION 114</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-113.html" class="dossier-card-wrap mission-item" data-id="113" data-title="MISSION 113">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-113</div>
+                    <h3 class="dossier-title">MISSION 113</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-112.html" class="dossier-card-wrap mission-item" data-id="112" data-title="MISSION 112">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-112</div>
+                    <h3 class="dossier-title">MISSION 112</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-111.html" class="dossier-card-wrap mission-item" data-id="111" data-title="MISSION 111">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-111</div>
+                    <h3 class="dossier-title">MISSION 111</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-110.html" class="dossier-card-wrap mission-item" data-id="110" data-title="MISSION 110">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-110</div>
+                    <h3 class="dossier-title">MISSION 110</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-109.html" class="dossier-card-wrap mission-item" data-id="109" data-title="MISSION 109">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-109</div>
+                    <h3 class="dossier-title">MISSION 109</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-108.html" class="dossier-card-wrap mission-item" data-id="108" data-title="MISSION 108">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-108</div>
+                    <h3 class="dossier-title">MISSION 108</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-107.html" class="dossier-card-wrap mission-item" data-id="107" data-title="MISSION 107">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-107</div>
+                    <h3 class="dossier-title">MISSION 107</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-106.html" class="dossier-card-wrap mission-item" data-id="106" data-title="MISSION 106">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-106</div>
+                    <h3 class="dossier-title">MISSION 106</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-105.html" class="dossier-card-wrap mission-item" data-id="105" data-title="MISSION 105">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-105</div>
+                    <h3 class="dossier-title">MISSION 105</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-104.html" class="dossier-card-wrap mission-item" data-id="104" data-title="MISSION 104">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-104</div>
+                    <h3 class="dossier-title">MISSION 104</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-103.html" class="dossier-card-wrap mission-item" data-id="103" data-title="MISSION 103">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-103</div>
+                    <h3 class="dossier-title">MISSION 103</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-102.html" class="dossier-card-wrap mission-item" data-id="102" data-title="MISSION 102">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-102</div>
+                    <h3 class="dossier-title">MISSION 102</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-101.html" class="dossier-card-wrap mission-item" data-id="101" data-title="MISSION 101">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-101</div>
+                    <h3 class="dossier-title">MISSION 101</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-100.html" class="dossier-card-wrap mission-item" data-id="100" data-title="MISSION 100">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-100</div>
+                    <h3 class="dossier-title">MISSION 100</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-99.html" class="dossier-card-wrap mission-item" data-id="99" data-title="MISSION 99">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-099</div>
+                    <h3 class="dossier-title">MISSION 99</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-98.html" class="dossier-card-wrap mission-item" data-id="98" data-title="MISSION 98">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-098</div>
+                    <h3 class="dossier-title">MISSION 98</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-97.html" class="dossier-card-wrap mission-item" data-id="97" data-title="MISSION 97">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-097</div>
+                    <h3 class="dossier-title">MISSION 97</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-96.html" class="dossier-card-wrap mission-item" data-id="96" data-title="MISSION 96">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-096</div>
+                    <h3 class="dossier-title">MISSION 96</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-95.html" class="dossier-card-wrap mission-item" data-id="95" data-title="MISSION 95">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-095</div>
+                    <h3 class="dossier-title">MISSION 95</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-94.html" class="dossier-card-wrap mission-item" data-id="94" data-title="MISSION 94">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-094</div>
+                    <h3 class="dossier-title">MISSION 94</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-93.html" class="dossier-card-wrap mission-item" data-id="93" data-title="MISSION 93">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-093</div>
+                    <h3 class="dossier-title">MISSION 93</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-92.html" class="dossier-card-wrap mission-item" data-id="92" data-title="MISSION 92">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-092</div>
+                    <h3 class="dossier-title">MISSION 92</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-91.html" class="dossier-card-wrap mission-item" data-id="91" data-title="MISSION 91">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-091</div>
+                    <h3 class="dossier-title">MISSION 91</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-90.html" class="dossier-card-wrap mission-item" data-id="90" data-title="MISSION 90">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-090</div>
+                    <h3 class="dossier-title">MISSION 90</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-89.html" class="dossier-card-wrap mission-item" data-id="89" data-title="MISSION 89">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-089</div>
+                    <h3 class="dossier-title">MISSION 89</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-88.html" class="dossier-card-wrap mission-item" data-id="88" data-title="MISSION 88">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-088</div>
+                    <h3 class="dossier-title">MISSION 88</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-87.html" class="dossier-card-wrap mission-item" data-id="87" data-title="MISSION 87">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-087</div>
+                    <h3 class="dossier-title">MISSION 87</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-86.html" class="dossier-card-wrap mission-item" data-id="86" data-title="MISSION 86">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-086</div>
+                    <h3 class="dossier-title">MISSION 86</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-85.html" class="dossier-card-wrap mission-item" data-id="85" data-title="MISSION 85">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-085</div>
+                    <h3 class="dossier-title">MISSION 85</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-84.html" class="dossier-card-wrap mission-item" data-id="84" data-title="MISSION 84">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-084</div>
+                    <h3 class="dossier-title">MISSION 84</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-83.html" class="dossier-card-wrap mission-item" data-id="83" data-title="MISSION 83">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-083</div>
+                    <h3 class="dossier-title">MISSION 83</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-82.html" class="dossier-card-wrap mission-item" data-id="82" data-title="MISSION 82">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-082</div>
+                    <h3 class="dossier-title">MISSION 82</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-81.html" class="dossier-card-wrap mission-item" data-id="81" data-title="MISSION 81">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-081</div>
+                    <h3 class="dossier-title">MISSION 81</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-80.html" class="dossier-card-wrap mission-item" data-id="80" data-title="MISSION 80">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-080</div>
+                    <h3 class="dossier-title">MISSION 80</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-79.html" class="dossier-card-wrap mission-item" data-id="79" data-title="MISSION 79">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-079</div>
+                    <h3 class="dossier-title">MISSION 79</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-78.html" class="dossier-card-wrap mission-item" data-id="78" data-title="MISSION 78">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-078</div>
+                    <h3 class="dossier-title">MISSION 78</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-77.html" class="dossier-card-wrap mission-item" data-id="77" data-title="MISSION 77">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-077</div>
+                    <h3 class="dossier-title">MISSION 77</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-76.html" class="dossier-card-wrap mission-item" data-id="76" data-title="MISSION 76">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-076</div>
+                    <h3 class="dossier-title">MISSION 76</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-75.html" class="dossier-card-wrap mission-item" data-id="75" data-title="MISSION 75">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-075</div>
+                    <h3 class="dossier-title">MISSION 75</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-74.html" class="dossier-card-wrap mission-item" data-id="74" data-title="MISSION 74">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-074</div>
+                    <h3 class="dossier-title">MISSION 74</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-73.html" class="dossier-card-wrap mission-item" data-id="73" data-title="MISSION 73">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-073</div>
+                    <h3 class="dossier-title">MISSION 73</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-72.html" class="dossier-card-wrap mission-item" data-id="72" data-title="MISSION 72">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-072</div>
+                    <h3 class="dossier-title">MISSION 72</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-71.html" class="dossier-card-wrap mission-item" data-id="71" data-title="MISSION 71">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-071</div>
+                    <h3 class="dossier-title">MISSION 71</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-70.html" class="dossier-card-wrap mission-item" data-id="70" data-title="MISSION 70">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-070</div>
+                    <h3 class="dossier-title">MISSION 70</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-69.html" class="dossier-card-wrap mission-item" data-id="69" data-title="MISSION 69">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-069</div>
+                    <h3 class="dossier-title">MISSION 69</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-68.html" class="dossier-card-wrap mission-item" data-id="68" data-title="MISSION 68">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-068</div>
+                    <h3 class="dossier-title">MISSION 68</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-67.html" class="dossier-card-wrap mission-item" data-id="67" data-title="MISSION 67">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-067</div>
+                    <h3 class="dossier-title">MISSION 67</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-66.html" class="dossier-card-wrap mission-item" data-id="66" data-title="MISSION 66">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-066</div>
+                    <h3 class="dossier-title">MISSION 66</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-65.html" class="dossier-card-wrap mission-item" data-id="65" data-title="MISSION 65">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-065</div>
+                    <h3 class="dossier-title">MISSION 65</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-64.html" class="dossier-card-wrap mission-item" data-id="64" data-title="MISSION 64">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-064</div>
+                    <h3 class="dossier-title">MISSION 64</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-63.html" class="dossier-card-wrap mission-item" data-id="63" data-title="MISSION 63">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-063</div>
+                    <h3 class="dossier-title">MISSION 63</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-62.html" class="dossier-card-wrap mission-item" data-id="62" data-title="MISSION 62">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-062</div>
+                    <h3 class="dossier-title">MISSION 62</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-61.html" class="dossier-card-wrap mission-item" data-id="61" data-title="MISSION 61">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-061</div>
+                    <h3 class="dossier-title">MISSION 61</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-60.html" class="dossier-card-wrap mission-item" data-id="60" data-title="MISSION 60">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-060</div>
+                    <h3 class="dossier-title">MISSION 60</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-59.html" class="dossier-card-wrap mission-item" data-id="59" data-title="MISSION 59">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-059</div>
+                    <h3 class="dossier-title">MISSION 59</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-58.html" class="dossier-card-wrap mission-item" data-id="58" data-title="MISSION 58">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-058</div>
+                    <h3 class="dossier-title">MISSION 58</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-57.html" class="dossier-card-wrap mission-item" data-id="57" data-title="MISSION 57">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-057</div>
+                    <h3 class="dossier-title">MISSION 57</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-56.html" class="dossier-card-wrap mission-item" data-id="56" data-title="MISSION 56">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-056</div>
+                    <h3 class="dossier-title">MISSION 56</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-55.html" class="dossier-card-wrap mission-item" data-id="55" data-title="MISSION 55">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-055</div>
+                    <h3 class="dossier-title">MISSION 55</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-54.html" class="dossier-card-wrap mission-item" data-id="54" data-title="MISSION 54">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-054</div>
+                    <h3 class="dossier-title">MISSION 54</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-53.html" class="dossier-card-wrap mission-item" data-id="53" data-title="MISSION 53">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-053</div>
+                    <h3 class="dossier-title">MISSION 53</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-52.html" class="dossier-card-wrap mission-item" data-id="52" data-title="MISSION 52">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-052</div>
+                    <h3 class="dossier-title">MISSION 52</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-51.html" class="dossier-card-wrap mission-item" data-id="51" data-title="MISSION 51">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-051</div>
+                    <h3 class="dossier-title">MISSION 51</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-50.html" class="dossier-card-wrap mission-item" data-id="50" data-title="MISSION 50">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-050</div>
+                    <h3 class="dossier-title">MISSION 50</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-49.html" class="dossier-card-wrap mission-item" data-id="49" data-title="MISSION 49">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-049</div>
+                    <h3 class="dossier-title">MISSION 49</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-48.html" class="dossier-card-wrap mission-item" data-id="48" data-title="MISSION 48">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-048</div>
+                    <h3 class="dossier-title">MISSION 48</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-47.html" class="dossier-card-wrap mission-item" data-id="47" data-title="MISSION 47">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-047</div>
+                    <h3 class="dossier-title">MISSION 47</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-46.html" class="dossier-card-wrap mission-item" data-id="46" data-title="MISSION 46">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-046</div>
+                    <h3 class="dossier-title">MISSION 46</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-45.html" class="dossier-card-wrap mission-item" data-id="45" data-title="MISSION 45">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-045</div>
+                    <h3 class="dossier-title">MISSION 45</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-44.html" class="dossier-card-wrap mission-item" data-id="44" data-title="MISSION 44">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-044</div>
+                    <h3 class="dossier-title">MISSION 44</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-43.html" class="dossier-card-wrap mission-item" data-id="43" data-title="MISSION 43">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-043</div>
+                    <h3 class="dossier-title">MISSION 43</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-42.html" class="dossier-card-wrap mission-item" data-id="42" data-title="MISSION 42">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-042</div>
+                    <h3 class="dossier-title">MISSION 42</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-41.html" class="dossier-card-wrap mission-item" data-id="41" data-title="MISSION 41">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-041</div>
+                    <h3 class="dossier-title">MISSION 41</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-40.html" class="dossier-card-wrap mission-item" data-id="40" data-title="MISSION 40">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-040</div>
+                    <h3 class="dossier-title">MISSION 40</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-39.html" class="dossier-card-wrap mission-item" data-id="39" data-title="MISSION 39">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-039</div>
+                    <h3 class="dossier-title">MISSION 39</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-38.html" class="dossier-card-wrap mission-item" data-id="38" data-title="MISSION 38">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-038</div>
+                    <h3 class="dossier-title">MISSION 38</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-37.html" class="dossier-card-wrap mission-item" data-id="37" data-title="MISSION 37">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-037</div>
+                    <h3 class="dossier-title">MISSION 37</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-36.html" class="dossier-card-wrap mission-item" data-id="36" data-title="MISSION 36">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-036</div>
+                    <h3 class="dossier-title">MISSION 36</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-35.html" class="dossier-card-wrap mission-item" data-id="35" data-title="MISSION 35">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-035</div>
+                    <h3 class="dossier-title">MISSION 35</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-34.html" class="dossier-card-wrap mission-item" data-id="34" data-title="MISSION 34">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-034</div>
+                    <h3 class="dossier-title">MISSION 34</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-33.html" class="dossier-card-wrap mission-item" data-id="33" data-title="MISSION 33">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-033</div>
+                    <h3 class="dossier-title">MISSION 33</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-32.html" class="dossier-card-wrap mission-item" data-id="32" data-title="MISSION 32">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-032</div>
+                    <h3 class="dossier-title">MISSION 32</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-31.html" class="dossier-card-wrap mission-item" data-id="31" data-title="MISSION 31">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-031</div>
+                    <h3 class="dossier-title">MISSION 31</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-30.html" class="dossier-card-wrap mission-item" data-id="30" data-title="MISSION 30">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-030</div>
+                    <h3 class="dossier-title">MISSION 30</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-29.html" class="dossier-card-wrap mission-item" data-id="29" data-title="MISSION 29">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-029</div>
+                    <h3 class="dossier-title">MISSION 29</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-28.html" class="dossier-card-wrap mission-item" data-id="28" data-title="MISSION 28">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-028</div>
+                    <h3 class="dossier-title">MISSION 28</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-27.html" class="dossier-card-wrap mission-item" data-id="27" data-title="MISSION 27">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-027</div>
+                    <h3 class="dossier-title">MISSION 27</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-26.html" class="dossier-card-wrap mission-item" data-id="26" data-title="MISSION 26">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-026</div>
+                    <h3 class="dossier-title">MISSION 26</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-25.html" class="dossier-card-wrap mission-item" data-id="25" data-title="MISSION 25">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-025</div>
+                    <h3 class="dossier-title">MISSION 25</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-24.html" class="dossier-card-wrap mission-item" data-id="24" data-title="MISSION 24">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-024</div>
+                    <h3 class="dossier-title">MISSION 24</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-23.html" class="dossier-card-wrap mission-item" data-id="23" data-title="MISSION 23">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-023</div>
+                    <h3 class="dossier-title">MISSION 23</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-22.html" class="dossier-card-wrap mission-item" data-id="22" data-title="MISSION 22">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-022</div>
+                    <h3 class="dossier-title">MISSION 22</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-21.html" class="dossier-card-wrap mission-item" data-id="21" data-title="MISSION 21">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-021</div>
+                    <h3 class="dossier-title">MISSION 21</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-20.html" class="dossier-card-wrap mission-item" data-id="20" data-title="MISSION 20">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-020</div>
+                    <h3 class="dossier-title">MISSION 20</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-19.html" class="dossier-card-wrap mission-item" data-id="19" data-title="MISSION 19">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-019</div>
+                    <h3 class="dossier-title">MISSION 19</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-18.html" class="dossier-card-wrap mission-item" data-id="18" data-title="MISSION 18">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-018</div>
+                    <h3 class="dossier-title">MISSION 18</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-17.html" class="dossier-card-wrap mission-item" data-id="17" data-title="MISSION 17">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-017</div>
+                    <h3 class="dossier-title">MISSION 17</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-16.html" class="dossier-card-wrap mission-item" data-id="16" data-title="MISSION 16">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-016</div>
+                    <h3 class="dossier-title">MISSION 16</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-15.html" class="dossier-card-wrap mission-item" data-id="15" data-title="MISSION 15">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-015</div>
+                    <h3 class="dossier-title">MISSION 15</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-14.html" class="dossier-card-wrap mission-item" data-id="14" data-title="MISSION 14">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-014</div>
+                    <h3 class="dossier-title">MISSION 14</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-13.html" class="dossier-card-wrap mission-item" data-id="13" data-title="MISSION 13">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-013</div>
+                    <h3 class="dossier-title">MISSION 13</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-12.html" class="dossier-card-wrap mission-item" data-id="12" data-title="MISSION 12">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-012</div>
+                    <h3 class="dossier-title">MISSION 12</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-11.html" class="dossier-card-wrap mission-item" data-id="11" data-title="MISSION 11">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-011</div>
+                    <h3 class="dossier-title">MISSION 11</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-10.html" class="dossier-card-wrap mission-item" data-id="10" data-title="MISSION 10">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-010</div>
+                    <h3 class="dossier-title">MISSION 10</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: EXTREME</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-9.html" class="dossier-card-wrap mission-item" data-id="9" data-title="MISSION 9">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-009</div>
+                    <h3 class="dossier-title">MISSION 9</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-8.html" class="dossier-card-wrap mission-item" data-id="8" data-title="MISSION 8">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-008</div>
+                    <h3 class="dossier-title">MISSION 8</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-7.html" class="dossier-card-wrap mission-item" data-id="7" data-title="MISSION 7">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-007</div>
+                    <h3 class="dossier-title">MISSION 7</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-6.html" class="dossier-card-wrap mission-item" data-id="6" data-title="MISSION 6">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-006</div>
+                    <h3 class="dossier-title">MISSION 6</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-5.html" class="dossier-card-wrap mission-item" data-id="5" data-title="MISSION 5">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-005</div>
+                    <h3 class="dossier-title">MISSION 5</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: HIGH</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-4.html" class="dossier-card-wrap mission-item" data-id="4" data-title="MISSION 4">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-004</div>
+                    <h3 class="dossier-title">MISSION 4</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-3.html" class="dossier-card-wrap mission-item" data-id="3" data-title="MISSION 3">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-003</div>
+                    <h3 class="dossier-title">MISSION 3</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-2.html" class="dossier-card-wrap mission-item" data-id="2" data-title="MISSION 2">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-002</div>
+                    <h3 class="dossier-title">MISSION 2</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>
+            <a href="chapters/chapter-1.html" class="dossier-card-wrap mission-item" data-id="1" data-title="MISSION 1">
+                <article class="dossier-card">
+                    <div class="mission-stamp">CLASSIFIED</div>
+                    <div class="dossier-id">MISSION_ID: SF-001</div>
+                    <h3 class="dossier-title">MISSION 1</h3>
+                    <div class="dossier-meta">
+                        <span>STATUS: COMPLETED</span>
+                        <span>THREAT LEVEL: CONTROLLED</span>
+                        <span>CLEARANCE: WISE-L4</span>
+                    </div>
+                    <div class="dossier-arrow">→</div>
+                </article>
+            </a>

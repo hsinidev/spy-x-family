@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DMCA Protocol | Spy X Family</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Special+Elite&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="script.js" defer></script>
+</head>
+<body class="bg-[#050505] text-[#fef3c7] font-sans selection:bg-[#991b1b] selection:text-white antialiased custom-scrollbar">
+    <!-- TOP-SECRET STAMP -->
+    <div class="fixed top-12 right-12 opacity-10 transform rotate-12 pointer-events-none select-none z-0">
+        <div class="border-8 border-[#991b1b] px-8 py-4 rounded-xl">
+            <h1 class="text-8xl font-black text-[#991b1b] special-elite">CONFIDENTIAL</h1>
+        </div>
+    </div>
+
+    <!-- NAVIGATION BAR Placeholder (will be replaced by standardize_site.py) -->
+    <nav class="fixed w-full z-[100] bg-[#050505]/90 backdrop-blur-2xl border-b border-[#064e3b]/30">
+        <div class="max-w-[2000px] mx-auto px-8 h-24 flex items-center justify-between">
+            <div class="flex items-center space-x-12">
+                <a href="./index.html" class="text-3xl font-['DM_Serif_Display'] logo-glow flex items-center gap-3">
+                    <span class="text-[#064e3b]">SPY</span>
+                    <span class="text-white">x</span>
+                    <span class="text-[#064e3b]">FAMILY</span>
+                </a>
+                
+                <!-- MISSION_LOG Searchable Dropdown -->
+                <div class="hidden lg:flex relative">
+                    <button class="flex items-center justify-between w-64 px-4 py-2 border border-[#064e3b]/30 rounded bg-black/40 text-xs font-['Special_Elite'] text-white/70 hover:text-white transition-all uppercase tracking-[0.2em] MissionLogBtn">
+                        <div class="flex items-center gap-3">
+                            <i data-lucide="search" class="w-4 h-4 text-[#064e3b]"></i>
+                            <span>MISSION_LOG</span>
+                        </div>
+                        <i data-lucide="chevron-down" class="w-4 h-4 opacity-50"></i>
+                    </button>
+                    <!-- Dropdown Content -->
+                    <div id="mission-log-dropdown" class="absolute top-full left-0 mt-3 w-80 bg-[#0a0a0a] border border-[#064e3b]/30 rounded-sm shadow-[0_30px_100px_rgba(0,0,0,0.9)] transition-all duration-400 backdrop-blur-3xl z-[110]">
+                        <div class="p-6">
+                            <div class="relative group mb-4">
+                                <i data-lucide="search" class="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-[#064e3b] opacity-50 group-focus-within:opacity-100 transition-opacity"></i>
+                                <input type="text" id="mission-header-search" placeholder="QUERY_INTEL..." class="w-full bg-black/60 border border-[#064e3b]/50 rounded-sm pl-9 pr-4 py-3 text-[10px] font-['Special_Elite'] text-white focus:outline-none focus:border-[#064e3b] focus:ring-1 focus:ring-[#064e3b]/30 transition-all">
+                            </div>
+                            <div class="space-y-1 max-h-80 overflow-y-auto custom-scrollbar pr-2" id="mission-dropdown-list">
+<a href="manga/spy-x-family/chapter-131/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_131</a>
+<a href="manga/spy-x-family/chapter-130/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_130</a>
+<a href="manga/spy-x-family/chapter-129/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_129</a>
+<a href="manga/spy-x-family/chapter-128/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_128</a>
+<a href="manga/spy-x-family/chapter-127.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_127.5</a>
+<a href="manga/spy-x-family/chapter-127.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_127.2</a>
+<a href="manga/spy-x-family/chapter-127.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_127.1</a>
+<a href="manga/spy-x-family/chapter-126/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_126</a>
+<a href="manga/spy-x-family/chapter-125/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_125</a>
+<a href="manga/spy-x-family/chapter-124/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_124</a>
+<a href="manga/spy-x-family/chapter-123.3/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_123.3</a>
+<a href="manga/spy-x-family/chapter-123.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_123.2</a>
+<a href="manga/spy-x-family/chapter-123.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_123.1</a>
+<a href="manga/spy-x-family/chapter-123/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_123</a>
+<a href="manga/spy-x-family/chapter-122/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_122</a>
+<a href="manga/spy-x-family/chapter-121/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_121</a>
+<a href="manga/spy-x-family/chapter-120.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_120.5</a>
+<a href="manga/spy-x-family/chapter-120/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_120</a>
+<a href="manga/spy-x-family/chapter-119/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_119</a>
+<a href="manga/spy-x-family/chapter-118/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_118</a>
+<a href="manga/spy-x-family/chapter-117/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_117</a>
+<a href="manga/spy-x-family/chapter-116.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_116.5</a>
+<a href="manga/spy-x-family/chapter-116/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_116</a>
+<a href="manga/spy-x-family/chapter-115/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_115</a>
+<a href="manga/spy-x-family/chapter-114.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_114.5</a>
+<a href="manga/spy-x-family/chapter-114/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_114</a>
+<a href="manga/spy-x-family/chapter-113/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_113</a>
+<a href="manga/spy-x-family/chapter-112.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_112.2</a>
+<a href="manga/spy-x-family/chapter-112.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_112.1</a>
+<a href="manga/spy-x-family/chapter-111/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_111</a>
+<a href="manga/spy-x-family/chapter-110/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_110</a>
+<a href="manga/spy-x-family/chapter-109/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_109</a>
+<a href="manga/spy-x-family/chapter-108/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_108</a>
+<a href="manga/spy-x-family/chapter-107/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_107</a>
+<a href="manga/spy-x-family/chapter-106/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_106</a>
+<a href="manga/spy-x-family/chapter-105.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_105.5</a>
+<a href="manga/spy-x-family/chapter-105/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_105</a>
+<a href="manga/spy-x-family/chapter-104/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_104</a>
+<a href="manga/spy-x-family/chapter-103/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_103</a>
+<a href="manga/spy-x-family/chapter-102/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_102</a>
+<a href="manga/spy-x-family/chapter-101/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_101</a>
+<a href="manga/spy-x-family/chapter-100/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_100</a>
+<a href="manga/spy-x-family/chapter-099/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_099</a>
+<a href="manga/spy-x-family/chapter-098.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_098.5</a>
+<a href="manga/spy-x-family/chapter-098/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_098</a>
+<a href="manga/spy-x-family/chapter-097/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_097</a>
+<a href="manga/spy-x-family/chapter-096.6/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_096.6</a>
+<a href="manga/spy-x-family/chapter-096.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_096.5</a>
+<a href="manga/spy-x-family/chapter-096/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_096</a>
+<a href="manga/spy-x-family/chapter-095/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_095</a>
+<a href="manga/spy-x-family/chapter-094/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_094</a>
+<a href="manga/spy-x-family/chapter-093/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_093</a>
+<a href="manga/spy-x-family/chapter-092/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_092</a>
+<a href="manga/spy-x-family/chapter-091/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_091</a>
+<a href="manga/spy-x-family/chapter-090.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_090.5</a>
+<a href="manga/spy-x-family/chapter-090/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_090</a>
+<a href="manga/spy-x-family/chapter-089/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_089</a>
+<a href="manga/spy-x-family/chapter-088/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_088</a>
+<a href="manga/spy-x-family/chapter-087/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_087</a>
+<a href="manga/spy-x-family/chapter-086/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_086</a>
+<a href="manga/spy-x-family/chapter-085/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_085</a>
+<a href="manga/spy-x-family/chapter-084.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_084.5</a>
+<a href="manga/spy-x-family/chapter-084/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_084</a>
+<a href="manga/spy-x-family/chapter-083/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_083</a>
+<a href="manga/spy-x-family/chapter-082/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_082</a>
+<a href="manga/spy-x-family/chapter-081/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_081</a>
+<a href="manga/spy-x-family/chapter-080/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_080</a>
+<a href="manga/spy-x-family/chapter-079/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_079</a>
+<a href="manga/spy-x-family/chapter-078.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_078.5</a>
+<a href="manga/spy-x-family/chapter-078/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_078</a>
+<a href="manga/spy-x-family/chapter-077/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_077</a>
+<a href="manga/spy-x-family/chapter-076/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_076</a>
+<a href="manga/spy-x-family/chapter-075/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_075</a>
+<a href="manga/spy-x-family/chapter-074/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_074</a>
+<a href="manga/spy-x-family/chapter-073/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_073</a>
+<a href="manga/spy-x-family/chapter-072/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_072</a>
+<a href="manga/spy-x-family/chapter-071.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_071.5</a>
+<a href="manga/spy-x-family/chapter-071/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_071</a>
+<a href="manga/spy-x-family/chapter-070/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_070</a>
+<a href="manga/spy-x-family/chapter-069/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_069</a>
+<a href="manga/spy-x-family/chapter-068.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_068.5</a>
+<a href="manga/spy-x-family/chapter-068.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_068.1</a>
+<a href="manga/spy-x-family/chapter-068/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_068</a>
+<a href="manga/spy-x-family/chapter-067.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_067.5</a>
+<a href="manga/spy-x-family/chapter-067.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_067.2</a>
+<a href="manga/spy-x-family/chapter-067.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_067.1</a>
+<a href="manga/spy-x-family/chapter-067/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_067</a>
+<a href="manga/spy-x-family/chapter-066.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_066.5</a>
+<a href="manga/spy-x-family/chapter-066/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_066</a>
+<a href="manga/spy-x-family/chapter-065/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_065</a>
+<a href="manga/spy-x-family/chapter-064.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_064.5</a>
+<a href="manga/spy-x-family/chapter-064/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_064</a>
+<a href="manga/spy-x-family/chapter-063/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_063</a>
+<a href="manga/spy-x-family/chapter-062.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062.5</a>
+<a href="manga/spy-x-family/chapter-062.4/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062.4</a>
+<a href="manga/spy-x-family/chapter-062.3/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062.3</a>
+<a href="manga/spy-x-family/chapter-062.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062.2</a>
+<a href="manga/spy-x-family/chapter-062.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062.1</a>
+<a href="manga/spy-x-family/chapter-062/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_062</a>
+<a href="manga/spy-x-family/chapter-061/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_061</a>
+<a href="manga/spy-x-family/chapter-060/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_060</a>
+<a href="manga/spy-x-family/chapter-059/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_059</a>
+<a href="manga/spy-x-family/chapter-058.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_058.5</a>
+<a href="manga/spy-x-family/chapter-058.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_058.2</a>
+<a href="manga/spy-x-family/chapter-058.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_058.1</a>
+<a href="manga/spy-x-family/chapter-058/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_058</a>
+<a href="manga/spy-x-family/chapter-057/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_057</a>
+<a href="manga/spy-x-family/chapter-056/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_056</a>
+<a href="manga/spy-x-family/chapter-055/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_055</a>
+<a href="manga/spy-x-family/chapter-054/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_054</a>
+<a href="manga/spy-x-family/chapter-053.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_053.5</a>
+<a href="manga/spy-x-family/chapter-053/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_053</a>
+<a href="manga/spy-x-family/chapter-052/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_052</a>
+<a href="manga/spy-x-family/chapter-051.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_051.5</a>
+<a href="manga/spy-x-family/chapter-051/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_051</a>
+<a href="manga/spy-x-family/chapter-050/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_050</a>
+<a href="manga/spy-x-family/chapter-049/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_049</a>
+<a href="manga/spy-x-family/chapter-048/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_048</a>
+<a href="manga/spy-x-family/chapter-047/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_047</a>
+<a href="manga/spy-x-family/chapter-046/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_046</a>
+<a href="manga/spy-x-family/chapter-045/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_045</a>
+<a href="manga/spy-x-family/chapter-044.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_044.5</a>
+<a href="manga/spy-x-family/chapter-044/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_044</a>
+<a href="manga/spy-x-family/chapter-043/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_043</a>
+<a href="manga/spy-x-family/chapter-042/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_042</a>
+<a href="manga/spy-x-family/chapter-041/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_041</a>
+<a href="manga/spy-x-family/chapter-040.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_040.5</a>
+<a href="manga/spy-x-family/chapter-040/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_040</a>
+<a href="manga/spy-x-family/chapter-039/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_039</a>
+<a href="manga/spy-x-family/chapter-038/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_038</a>
+<a href="manga/spy-x-family/chapter-037.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_037.5</a>
+<a href="manga/spy-x-family/chapter-037/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_037</a>
+<a href="manga/spy-x-family/chapter-036/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_036</a>
+<a href="manga/spy-x-family/chapter-035/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_035</a>
+<a href="manga/spy-x-family/chapter-034/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_034</a>
+<a href="manga/spy-x-family/chapter-033/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_033</a>
+<a href="manga/spy-x-family/chapter-032/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_032</a>
+<a href="manga/spy-x-family/chapter-031/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_031</a>
+<a href="manga/spy-x-family/chapter-030.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_030.5</a>
+<a href="manga/spy-x-family/chapter-030/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_030</a>
+<a href="manga/spy-x-family/chapter-029.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_029.1</a>
+<a href="manga/spy-x-family/chapter-029/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_029</a>
+<a href="manga/spy-x-family/chapter-028/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_028</a>
+<a href="manga/spy-x-family/chapter-027.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_027.5</a>
+<a href="manga/spy-x-family/chapter-027/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_027</a>
+<a href="manga/spy-x-family/chapter-026/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_026</a>
+<a href="manga/spy-x-family/chapter-025/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_025</a>
+<a href="manga/spy-x-family/chapter-024.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_024.5</a>
+<a href="manga/spy-x-family/chapter-024/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_024</a>
+<a href="manga/spy-x-family/chapter-023.6/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_023.6</a>
+<a href="manga/spy-x-family/chapter-023.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_023.5</a>
+<a href="manga/spy-x-family/chapter-023/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_023</a>
+<a href="manga/spy-x-family/chapter-022/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_022</a>
+<a href="manga/spy-x-family/chapter-021/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_021</a>
+<a href="manga/spy-x-family/chapter-020/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_020</a>
+<a href="manga/spy-x-family/chapter-019/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_019</a>
+<a href="manga/spy-x-family/chapter-018.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_018.5</a>
+<a href="manga/spy-x-family/chapter-018/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_018</a>
+<a href="manga/spy-x-family/chapter-017.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_017.5</a>
+<a href="manga/spy-x-family/chapter-017/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_017</a>
+<a href="manga/spy-x-family/chapter-016/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_016</a>
+<a href="manga/spy-x-family/chapter-015.6/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_015.6</a>
+<a href="manga/spy-x-family/chapter-015.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_015.5</a>
+<a href="manga/spy-x-family/chapter-015/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_015</a>
+<a href="manga/spy-x-family/chapter-014/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_014</a>
+<a href="manga/spy-x-family/chapter-013/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_013</a>
+<a href="manga/spy-x-family/chapter-012/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_012</a>
+<a href="manga/spy-x-family/chapter-011.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_011.5</a>
+<a href="manga/spy-x-family/chapter-011/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_011</a>
+<a href="manga/spy-x-family/chapter-010/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_010</a>
+<a href="manga/spy-x-family/chapter-009/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_009</a>
+<a href="manga/spy-x-family/chapter-008.5/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_008.5</a>
+<a href="manga/spy-x-family/chapter-008/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_008</a>
+<a href="manga/spy-x-family/chapter-007/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_007</a>
+<a href="manga/spy-x-family/chapter-006/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_006</a>
+<a href="manga/spy-x-family/chapter-005.5-Omake/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_005.5_Omake</a>
+<a href="manga/spy-x-family/chapter-005/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_005</a>
+<a href="manga/spy-x-family/chapter-004/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_004</a>
+<a href="manga/spy-x-family/chapter-003/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_003</a>
+<a href="manga/spy-x-family/chapter-002/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_002</a>
+<a href="manga/spy-x-family/chapter-001.2/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_001.2</a>
+<a href="manga/spy-x-family/chapter-001.1/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_001.1</a>
+<a href="manga/spy-x-family/chapter-001/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_001</a>
+<a href="manga/spy-x-family/chapter-000/" class="block px-3 py-2.5 hover:bg-[#064e3b]/20 rounded-sm text-[10px] text-white/50 hover:text-white uppercase tracking-wider transition-all border-l-2 border-transparent hover:border-[#064e3b]">Mission_000</a>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+    </nav>
+
+    <main class="relative pt-40 pb-24 px-6 z-10">
+        <div class="max-w-4xl mx-auto">
+            <!-- HEADER -->
+            <div class="mb-16 border-l-4 border-[#064e3b] pl-8">
+                <p class="text-[#064e3b] uppercase tracking-[0.4em] font-bold mb-2">Subject: Copyright Redaction</p>
+                <h1 class="text-5xl md:text-7xl font-bold mb-4 special-elite tracking-tighter uppercase">DMCA Protocol</h1>
+                <div class="flex items-center space-x-4 text-sm opacity-60">
+                    <span>DOCUMENT ID: WISE-DM-777</span>
+                    <span class="w-1 h-1 bg-[#fef3c7] rounded-full"></span>
+                    <span>LAST UPDATED: 16 APRIL 2024</span>
+                </div>
+            </div>
+
+            <!-- CONTENT -->
+            <div class="space-y-12 prose prose-invert prose-amber max-w-none">
+                
+                <section class="bg-[#e1c699]/5 p-8 border border-[#e1c699]/10 rounded-2xl relative overflow-hidden group">
+                    <h2 class="text-2xl font-bold mb-4 text-[#e1c699] special-elite flex items-center">
+                        <i data-lucide="alert-triangle" class="w-6 h-6 mr-3 text-[#991b1b]"></i>
+                        REDACTION REQUEST
+                    </h2>
+                    <p class="leading-relaxed opacity-80">
+                        We respect the intellectual property of all creators. If you believe any mission log on this portal violates your copyright, please submit a formal redaction request. Since our physical headquarters is technically classified, all DMCA notices must be sent via the mission support channel.
+                    </p>
+                </section>
+        
+                
+                <section class="pt-8 border-t border-[#064e3b]/20">
+                    <h2 class="text-2xl font-bold mb-4 special-elite text-[#064e3b]">CONTACT COMMAND</h2>
+                    <p class="mb-6 opacity-80">For inquiries regarding transmission errors or mission parameters, reach out via the secure channel:</p>
+                    <a href="mailto:admin@spyxfamily.portal" class="inline-flex items-center px-8 py-3 bg-[#064e3b] text-[#fef3c7] font-bold rounded-lg hover:bg-[#064e3b]/80 transition-all transform hover:scale-105">
+                        <i data-lucide="mail" class="w-4 h-4 mr-2"></i>
+                        MISSION SUPPORT
+                    </a>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-black border-t border-[#064e3b]/30 py-24 relative overflow-hidden">
+        <div class="max-w-7xl mx-auto px-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 relative z-10">
+            <div class="space-y-6">
+                <a href="./index.html" class="text-2xl font-['DM_Serif_Display'] logo-glow">
+                    <span class="text-[#064e3b]">SPY</span> x <span class="text-[#064e3b]">FAMILY</span>
+                </a>
+                <p class="text-xs text-white/40 font-['Special_Elite'] leading-relaxed">
+                    SECURED_PORTAL v4.2.0<br>
+                    ENCRYPTION: AES-256-GCM<br>
+                    ACCESS_LEVEL: LEVEL_4_ONLY
+                </p>
+            </div>
+            
+            <div class="space-y-4">
+                <h4 class="text-xs font-['Special_Elite'] text-[#064e3b] uppercase tracking-widest">DIRECTORY</h4>
+                <ul class="space-y-2 text-sm text-white/60">
+                    <li><a href="./about.html" class="redacted-link">About_Us</a></li>
+                    <li><a href="./contact.html" class="redacted-link">Contact_WISE</a></li>
+                    <li><a href="#mission-archive-root" class="redacted-link">Mission_Archive</a></li>
+                </ul>
+
+                <!-- Author Dossier Section requested by user -->
+                <div class="author-dossier-wrap">
+                    <button class="author-btn" id="author-dossier-toggle">
+                        <span>DETAILED_AUTHOR_DOSSIER</span>
+                        <i data-lucide="chevron-down" class="w-4 h-4"></i>
+                    </button>
+                    <div class="author-content" id="author-dossier-content">
+                        <div class="space-y-4 text-[10px] font-['Special_Elite'] text-white/70">
+                            <p><span class="text-[#064e3b]">NAME:</span> TATSUYA_ENDO</p>
+                            <p><span class="text-[#064e3b]">ROLE:</span> PRIMARY_CHRONICLER</p>
+                            <p class="leading-relaxed opacity-60">Tatsuya Endo is the mastermind behind Operation Strix. His mission: blend high-stakes espionage with heartfelt domestic life.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="space-y-4">
+                <ul class="space-y-3 text-sm text-white/60">
+                    <li><a href="./dmca.html" class="redacted-link">DMCA_Protocol</a></li>
+                    <li><a href="./terms.html" class="redacted-link">Terms_of_Service</a></li>
+                    <li><a href="./privacy.html" class="redacted-link">Privacy_Policy</a></li>
+                </ul>
+            </div>
+
+            <div class="space-y-4">
+                <h4 class="text-xs font-['Special_Elite'] text-[#064e3b] uppercase tracking-widest">COMPLIANCE</h4>
+                <ul class="space-y-3 text-sm text-white/60">
+                    <li><a href="./about.html" class="redacted-link">About_WISE</a></li>
+                    <li><a href="./contact.html" class="redacted-link">Contact_Agent</a></li>
+                    <li><a href="./cookies.html" class="redacted-link">Cookies_Directive</a></li>
+                    <li><a href="./disclaimer.html" class="redacted-link">Legal_Disclaimer</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-8 mt-16 pt-8 border-t border-white/5 text-[10px] text-white/20 font-['Special_Elite'] flex flex-col md:flex-row justify-between items-center gap-4">
+            <span>© 2024 OPERATION_STRIX_HUB. ALL_RIGHTS_RESERVED.</span>
+            <span class="tracking-[0.5em]">TOP_SECRET_CLASSIFIED</span>
+        </div>
+    </footer>
+    <div class="scroll-nav">
+        <button class="scroll-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Top Secret - Scroll Up">
+            <i data-lucide="chevron-up"></i>
+        </button>
+        <button class="scroll-btn" onclick="window.scrollTo({top: document.body.scrollHeight, behavior: 'smooth'})" title="Mission End - Scroll Down">
+            <i data-lucide="chevron-down"></i>
+        </button>
+    </div>
+<nav class="mobile-app-shell">
+        <a href="./index.html" class="app-shell-item active">
+            <i data-lucide="home"></i>
+            <span>Home</span>
+        </a>
+        <a href="#mission-archive-root" class="app-shell-item">
+            <i data-lucide="layers"></i>
+            <span>Missions</span>
+        </a>
+        <a href="#" class="app-shell-item" id="mobile-search-trigger">
+            <i data-lucide="search"></i>
+            <span>Search</span>
+        </a>
+        <a href="./contact.html" class="app-shell-item">
+            <i data-lucide="mail"></i>
+            <span>Contact</span>
+        </a>
+    </nav>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

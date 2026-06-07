@@ -1,0 +1,2209 @@
+
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-131" class="dossier-card">
+                        <div class="mission-stamp">MISSION_131</div>
+                        <div class="dossier-id">ID: SF-131</div>
+                        <h3 class="dossier-title">Mission 131</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-130" class="dossier-card">
+                        <div class="mission-stamp">MISSION_130</div>
+                        <div class="dossier-id">ID: SF-130</div>
+                        <h3 class="dossier-title">Mission 130</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-129" class="dossier-card">
+                        <div class="mission-stamp">MISSION_129</div>
+                        <div class="dossier-id">ID: SF-129</div>
+                        <h3 class="dossier-title">Mission 129</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-128" class="dossier-card">
+                        <div class="mission-stamp">MISSION_128</div>
+                        <div class="dossier-id">ID: SF-128</div>
+                        <h3 class="dossier-title">Mission 128</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-127.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_127</div>
+                        <div class="dossier-id">ID: SF-127.5</div>
+                        <h3 class="dossier-title">Mission 127.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-127.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_127</div>
+                        <div class="dossier-id">ID: SF-127.2</div>
+                        <h3 class="dossier-title">Mission 127.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-127.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_127</div>
+                        <div class="dossier-id">ID: SF-127.1</div>
+                        <h3 class="dossier-title">Mission 127.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-126" class="dossier-card">
+                        <div class="mission-stamp">MISSION_126</div>
+                        <div class="dossier-id">ID: SF-126</div>
+                        <h3 class="dossier-title">Mission 126</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-125" class="dossier-card">
+                        <div class="mission-stamp">MISSION_125</div>
+                        <div class="dossier-id">ID: SF-125</div>
+                        <h3 class="dossier-title">Mission 125</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-124" class="dossier-card">
+                        <div class="mission-stamp">MISSION_124</div>
+                        <div class="dossier-id">ID: SF-124</div>
+                        <h3 class="dossier-title">Mission 124</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-123.3" class="dossier-card">
+                        <div class="mission-stamp">MISSION_123</div>
+                        <div class="dossier-id">ID: SF-123.3</div>
+                        <h3 class="dossier-title">Mission 123.3</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-123.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_123</div>
+                        <div class="dossier-id">ID: SF-123.2</div>
+                        <h3 class="dossier-title">Mission 123.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-123.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_123</div>
+                        <div class="dossier-id">ID: SF-123.1</div>
+                        <h3 class="dossier-title">Mission 123.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-123" class="dossier-card">
+                        <div class="mission-stamp">MISSION_123</div>
+                        <div class="dossier-id">ID: SF-123</div>
+                        <h3 class="dossier-title">Mission 123</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-122" class="dossier-card">
+                        <div class="mission-stamp">MISSION_122</div>
+                        <div class="dossier-id">ID: SF-122</div>
+                        <h3 class="dossier-title">Mission 122</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-121" class="dossier-card">
+                        <div class="mission-stamp">MISSION_121</div>
+                        <div class="dossier-id">ID: SF-121</div>
+                        <h3 class="dossier-title">Mission 121</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-120.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_120</div>
+                        <div class="dossier-id">ID: SF-120.5</div>
+                        <h3 class="dossier-title">Mission 120.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-120" class="dossier-card">
+                        <div class="mission-stamp">MISSION_120</div>
+                        <div class="dossier-id">ID: SF-120</div>
+                        <h3 class="dossier-title">Mission 120</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-119" class="dossier-card">
+                        <div class="mission-stamp">MISSION_119</div>
+                        <div class="dossier-id">ID: SF-119</div>
+                        <h3 class="dossier-title">Mission 119</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-118" class="dossier-card">
+                        <div class="mission-stamp">MISSION_118</div>
+                        <div class="dossier-id">ID: SF-118</div>
+                        <h3 class="dossier-title">Mission 118</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-117" class="dossier-card">
+                        <div class="mission-stamp">MISSION_117</div>
+                        <div class="dossier-id">ID: SF-117</div>
+                        <h3 class="dossier-title">Mission 117</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-116.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_116</div>
+                        <div class="dossier-id">ID: SF-116.5</div>
+                        <h3 class="dossier-title">Mission 116.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-116" class="dossier-card">
+                        <div class="mission-stamp">MISSION_116</div>
+                        <div class="dossier-id">ID: SF-116</div>
+                        <h3 class="dossier-title">Mission 116</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-115" class="dossier-card">
+                        <div class="mission-stamp">MISSION_115</div>
+                        <div class="dossier-id">ID: SF-115</div>
+                        <h3 class="dossier-title">Mission 115</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-114.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_114</div>
+                        <div class="dossier-id">ID: SF-114.5</div>
+                        <h3 class="dossier-title">Mission 114.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-114" class="dossier-card">
+                        <div class="mission-stamp">MISSION_114</div>
+                        <div class="dossier-id">ID: SF-114</div>
+                        <h3 class="dossier-title">Mission 114</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-113" class="dossier-card">
+                        <div class="mission-stamp">MISSION_113</div>
+                        <div class="dossier-id">ID: SF-113</div>
+                        <h3 class="dossier-title">Mission 113</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-112.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_112</div>
+                        <div class="dossier-id">ID: SF-112.2</div>
+                        <h3 class="dossier-title">Mission 112.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-112.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_112</div>
+                        <div class="dossier-id">ID: SF-112.1</div>
+                        <h3 class="dossier-title">Mission 112.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-111" class="dossier-card">
+                        <div class="mission-stamp">MISSION_111</div>
+                        <div class="dossier-id">ID: SF-111</div>
+                        <h3 class="dossier-title">Mission 111</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-110" class="dossier-card">
+                        <div class="mission-stamp">MISSION_110</div>
+                        <div class="dossier-id">ID: SF-110</div>
+                        <h3 class="dossier-title">Mission 110</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-109" class="dossier-card">
+                        <div class="mission-stamp">MISSION_109</div>
+                        <div class="dossier-id">ID: SF-109</div>
+                        <h3 class="dossier-title">Mission 109</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-108" class="dossier-card">
+                        <div class="mission-stamp">MISSION_108</div>
+                        <div class="dossier-id">ID: SF-108</div>
+                        <h3 class="dossier-title">Mission 108</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-107" class="dossier-card">
+                        <div class="mission-stamp">MISSION_107</div>
+                        <div class="dossier-id">ID: SF-107</div>
+                        <h3 class="dossier-title">Mission 107</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-106" class="dossier-card">
+                        <div class="mission-stamp">MISSION_106</div>
+                        <div class="dossier-id">ID: SF-106</div>
+                        <h3 class="dossier-title">Mission 106</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-105.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_105</div>
+                        <div class="dossier-id">ID: SF-105.5</div>
+                        <h3 class="dossier-title">Mission 105.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-105" class="dossier-card">
+                        <div class="mission-stamp">MISSION_105</div>
+                        <div class="dossier-id">ID: SF-105</div>
+                        <h3 class="dossier-title">Mission 105</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-104" class="dossier-card">
+                        <div class="mission-stamp">MISSION_104</div>
+                        <div class="dossier-id">ID: SF-104</div>
+                        <h3 class="dossier-title">Mission 104</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-103" class="dossier-card">
+                        <div class="mission-stamp">MISSION_103</div>
+                        <div class="dossier-id">ID: SF-103</div>
+                        <h3 class="dossier-title">Mission 103</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-102" class="dossier-card">
+                        <div class="mission-stamp">MISSION_102</div>
+                        <div class="dossier-id">ID: SF-102</div>
+                        <h3 class="dossier-title">Mission 102</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-101" class="dossier-card">
+                        <div class="mission-stamp">MISSION_101</div>
+                        <div class="dossier-id">ID: SF-101</div>
+                        <h3 class="dossier-title">Mission 101</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-100" class="dossier-card">
+                        <div class="mission-stamp">MISSION_100</div>
+                        <div class="dossier-id">ID: SF-100</div>
+                        <h3 class="dossier-title">Mission 100</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-099" class="dossier-card">
+                        <div class="mission-stamp">MISSION_099</div>
+                        <div class="dossier-id">ID: SF-099</div>
+                        <h3 class="dossier-title">Mission 099</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-098.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_098</div>
+                        <div class="dossier-id">ID: SF-098.5</div>
+                        <h3 class="dossier-title">Mission 098.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-098" class="dossier-card">
+                        <div class="mission-stamp">MISSION_098</div>
+                        <div class="dossier-id">ID: SF-098</div>
+                        <h3 class="dossier-title">Mission 098</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-097" class="dossier-card">
+                        <div class="mission-stamp">MISSION_097</div>
+                        <div class="dossier-id">ID: SF-097</div>
+                        <h3 class="dossier-title">Mission 097</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-096.6" class="dossier-card">
+                        <div class="mission-stamp">MISSION_096</div>
+                        <div class="dossier-id">ID: SF-096.6</div>
+                        <h3 class="dossier-title">Mission 096.6</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-096.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_096</div>
+                        <div class="dossier-id">ID: SF-096.5</div>
+                        <h3 class="dossier-title">Mission 096.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-096" class="dossier-card">
+                        <div class="mission-stamp">MISSION_096</div>
+                        <div class="dossier-id">ID: SF-096</div>
+                        <h3 class="dossier-title">Mission 096</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-095" class="dossier-card">
+                        <div class="mission-stamp">MISSION_095</div>
+                        <div class="dossier-id">ID: SF-095</div>
+                        <h3 class="dossier-title">Mission 095</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-094" class="dossier-card">
+                        <div class="mission-stamp">MISSION_094</div>
+                        <div class="dossier-id">ID: SF-094</div>
+                        <h3 class="dossier-title">Mission 094</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-093" class="dossier-card">
+                        <div class="mission-stamp">MISSION_093</div>
+                        <div class="dossier-id">ID: SF-093</div>
+                        <h3 class="dossier-title">Mission 093</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-092" class="dossier-card">
+                        <div class="mission-stamp">MISSION_092</div>
+                        <div class="dossier-id">ID: SF-092</div>
+                        <h3 class="dossier-title">Mission 092</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-091" class="dossier-card">
+                        <div class="mission-stamp">MISSION_091</div>
+                        <div class="dossier-id">ID: SF-091</div>
+                        <h3 class="dossier-title">Mission 091</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-090.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_090</div>
+                        <div class="dossier-id">ID: SF-090.5</div>
+                        <h3 class="dossier-title">Mission 090.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-090" class="dossier-card">
+                        <div class="mission-stamp">MISSION_090</div>
+                        <div class="dossier-id">ID: SF-090</div>
+                        <h3 class="dossier-title">Mission 090</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-089" class="dossier-card">
+                        <div class="mission-stamp">MISSION_089</div>
+                        <div class="dossier-id">ID: SF-089</div>
+                        <h3 class="dossier-title">Mission 089</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-088" class="dossier-card">
+                        <div class="mission-stamp">MISSION_088</div>
+                        <div class="dossier-id">ID: SF-088</div>
+                        <h3 class="dossier-title">Mission 088</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-087" class="dossier-card">
+                        <div class="mission-stamp">MISSION_087</div>
+                        <div class="dossier-id">ID: SF-087</div>
+                        <h3 class="dossier-title">Mission 087</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-086" class="dossier-card">
+                        <div class="mission-stamp">MISSION_086</div>
+                        <div class="dossier-id">ID: SF-086</div>
+                        <h3 class="dossier-title">Mission 086</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-085" class="dossier-card">
+                        <div class="mission-stamp">MISSION_085</div>
+                        <div class="dossier-id">ID: SF-085</div>
+                        <h3 class="dossier-title">Mission 085</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-084.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_084</div>
+                        <div class="dossier-id">ID: SF-084.5</div>
+                        <h3 class="dossier-title">Mission 084.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-084" class="dossier-card">
+                        <div class="mission-stamp">MISSION_084</div>
+                        <div class="dossier-id">ID: SF-084</div>
+                        <h3 class="dossier-title">Mission 084</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-083" class="dossier-card">
+                        <div class="mission-stamp">MISSION_083</div>
+                        <div class="dossier-id">ID: SF-083</div>
+                        <h3 class="dossier-title">Mission 083</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-082" class="dossier-card">
+                        <div class="mission-stamp">MISSION_082</div>
+                        <div class="dossier-id">ID: SF-082</div>
+                        <h3 class="dossier-title">Mission 082</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-081" class="dossier-card">
+                        <div class="mission-stamp">MISSION_081</div>
+                        <div class="dossier-id">ID: SF-081</div>
+                        <h3 class="dossier-title">Mission 081</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-080" class="dossier-card">
+                        <div class="mission-stamp">MISSION_080</div>
+                        <div class="dossier-id">ID: SF-080</div>
+                        <h3 class="dossier-title">Mission 080</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-079" class="dossier-card">
+                        <div class="mission-stamp">MISSION_079</div>
+                        <div class="dossier-id">ID: SF-079</div>
+                        <h3 class="dossier-title">Mission 079</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-078.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_078</div>
+                        <div class="dossier-id">ID: SF-078.5</div>
+                        <h3 class="dossier-title">Mission 078.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-078" class="dossier-card">
+                        <div class="mission-stamp">MISSION_078</div>
+                        <div class="dossier-id">ID: SF-078</div>
+                        <h3 class="dossier-title">Mission 078</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-077" class="dossier-card">
+                        <div class="mission-stamp">MISSION_077</div>
+                        <div class="dossier-id">ID: SF-077</div>
+                        <h3 class="dossier-title">Mission 077</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-076" class="dossier-card">
+                        <div class="mission-stamp">MISSION_076</div>
+                        <div class="dossier-id">ID: SF-076</div>
+                        <h3 class="dossier-title">Mission 076</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-075" class="dossier-card">
+                        <div class="mission-stamp">MISSION_075</div>
+                        <div class="dossier-id">ID: SF-075</div>
+                        <h3 class="dossier-title">Mission 075</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-074" class="dossier-card">
+                        <div class="mission-stamp">MISSION_074</div>
+                        <div class="dossier-id">ID: SF-074</div>
+                        <h3 class="dossier-title">Mission 074</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-073" class="dossier-card">
+                        <div class="mission-stamp">MISSION_073</div>
+                        <div class="dossier-id">ID: SF-073</div>
+                        <h3 class="dossier-title">Mission 073</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-072" class="dossier-card">
+                        <div class="mission-stamp">MISSION_072</div>
+                        <div class="dossier-id">ID: SF-072</div>
+                        <h3 class="dossier-title">Mission 072</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-071.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_071</div>
+                        <div class="dossier-id">ID: SF-071.5</div>
+                        <h3 class="dossier-title">Mission 071.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-071" class="dossier-card">
+                        <div class="mission-stamp">MISSION_071</div>
+                        <div class="dossier-id">ID: SF-071</div>
+                        <h3 class="dossier-title">Mission 071</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-070" class="dossier-card">
+                        <div class="mission-stamp">MISSION_070</div>
+                        <div class="dossier-id">ID: SF-070</div>
+                        <h3 class="dossier-title">Mission 070</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-069" class="dossier-card">
+                        <div class="mission-stamp">MISSION_069</div>
+                        <div class="dossier-id">ID: SF-069</div>
+                        <h3 class="dossier-title">Mission 069</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-068.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_068</div>
+                        <div class="dossier-id">ID: SF-068.5</div>
+                        <h3 class="dossier-title">Mission 068.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-068.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_068</div>
+                        <div class="dossier-id">ID: SF-068.1</div>
+                        <h3 class="dossier-title">Mission 068.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-068" class="dossier-card">
+                        <div class="mission-stamp">MISSION_068</div>
+                        <div class="dossier-id">ID: SF-068</div>
+                        <h3 class="dossier-title">Mission 068</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-067.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_067</div>
+                        <div class="dossier-id">ID: SF-067.5</div>
+                        <h3 class="dossier-title">Mission 067.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-067.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_067</div>
+                        <div class="dossier-id">ID: SF-067.2</div>
+                        <h3 class="dossier-title">Mission 067.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-067.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_067</div>
+                        <div class="dossier-id">ID: SF-067.1</div>
+                        <h3 class="dossier-title">Mission 067.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-067" class="dossier-card">
+                        <div class="mission-stamp">MISSION_067</div>
+                        <div class="dossier-id">ID: SF-067</div>
+                        <h3 class="dossier-title">Mission 067</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-066.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_066</div>
+                        <div class="dossier-id">ID: SF-066.5</div>
+                        <h3 class="dossier-title">Mission 066.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-066" class="dossier-card">
+                        <div class="mission-stamp">MISSION_066</div>
+                        <div class="dossier-id">ID: SF-066</div>
+                        <h3 class="dossier-title">Mission 066</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-065" class="dossier-card">
+                        <div class="mission-stamp">MISSION_065</div>
+                        <div class="dossier-id">ID: SF-065</div>
+                        <h3 class="dossier-title">Mission 065</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-064.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_064</div>
+                        <div class="dossier-id">ID: SF-064.5</div>
+                        <h3 class="dossier-title">Mission 064.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-064" class="dossier-card">
+                        <div class="mission-stamp">MISSION_064</div>
+                        <div class="dossier-id">ID: SF-064</div>
+                        <h3 class="dossier-title">Mission 064</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-063" class="dossier-card">
+                        <div class="mission-stamp">MISSION_063</div>
+                        <div class="dossier-id">ID: SF-063</div>
+                        <h3 class="dossier-title">Mission 063</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062.5</div>
+                        <h3 class="dossier-title">Mission 062.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062.4" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062.4</div>
+                        <h3 class="dossier-title">Mission 062.4</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062.3" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062.3</div>
+                        <h3 class="dossier-title">Mission 062.3</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062.2</div>
+                        <h3 class="dossier-title">Mission 062.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062.1</div>
+                        <h3 class="dossier-title">Mission 062.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-062" class="dossier-card">
+                        <div class="mission-stamp">MISSION_062</div>
+                        <div class="dossier-id">ID: SF-062</div>
+                        <h3 class="dossier-title">Mission 062</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-061" class="dossier-card">
+                        <div class="mission-stamp">MISSION_061</div>
+                        <div class="dossier-id">ID: SF-061</div>
+                        <h3 class="dossier-title">Mission 061</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-060" class="dossier-card">
+                        <div class="mission-stamp">MISSION_060</div>
+                        <div class="dossier-id">ID: SF-060</div>
+                        <h3 class="dossier-title">Mission 060</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-059" class="dossier-card">
+                        <div class="mission-stamp">MISSION_059</div>
+                        <div class="dossier-id">ID: SF-059</div>
+                        <h3 class="dossier-title">Mission 059</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-058.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_058</div>
+                        <div class="dossier-id">ID: SF-058.5</div>
+                        <h3 class="dossier-title">Mission 058.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-058.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_058</div>
+                        <div class="dossier-id">ID: SF-058.2</div>
+                        <h3 class="dossier-title">Mission 058.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-058.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_058</div>
+                        <div class="dossier-id">ID: SF-058.1</div>
+                        <h3 class="dossier-title">Mission 058.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-058" class="dossier-card">
+                        <div class="mission-stamp">MISSION_058</div>
+                        <div class="dossier-id">ID: SF-058</div>
+                        <h3 class="dossier-title">Mission 058</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-057" class="dossier-card">
+                        <div class="mission-stamp">MISSION_057</div>
+                        <div class="dossier-id">ID: SF-057</div>
+                        <h3 class="dossier-title">Mission 057</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-056" class="dossier-card">
+                        <div class="mission-stamp">MISSION_056</div>
+                        <div class="dossier-id">ID: SF-056</div>
+                        <h3 class="dossier-title">Mission 056</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-055" class="dossier-card">
+                        <div class="mission-stamp">MISSION_055</div>
+                        <div class="dossier-id">ID: SF-055</div>
+                        <h3 class="dossier-title">Mission 055</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-054" class="dossier-card">
+                        <div class="mission-stamp">MISSION_054</div>
+                        <div class="dossier-id">ID: SF-054</div>
+                        <h3 class="dossier-title">Mission 054</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-053.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_053</div>
+                        <div class="dossier-id">ID: SF-053.5</div>
+                        <h3 class="dossier-title">Mission 053.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-053" class="dossier-card">
+                        <div class="mission-stamp">MISSION_053</div>
+                        <div class="dossier-id">ID: SF-053</div>
+                        <h3 class="dossier-title">Mission 053</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-052" class="dossier-card">
+                        <div class="mission-stamp">MISSION_052</div>
+                        <div class="dossier-id">ID: SF-052</div>
+                        <h3 class="dossier-title">Mission 052</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-051.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_051</div>
+                        <div class="dossier-id">ID: SF-051.5</div>
+                        <h3 class="dossier-title">Mission 051.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-051" class="dossier-card">
+                        <div class="mission-stamp">MISSION_051</div>
+                        <div class="dossier-id">ID: SF-051</div>
+                        <h3 class="dossier-title">Mission 051</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-050" class="dossier-card">
+                        <div class="mission-stamp">MISSION_050</div>
+                        <div class="dossier-id">ID: SF-050</div>
+                        <h3 class="dossier-title">Mission 050</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-049" class="dossier-card">
+                        <div class="mission-stamp">MISSION_049</div>
+                        <div class="dossier-id">ID: SF-049</div>
+                        <h3 class="dossier-title">Mission 049</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-048" class="dossier-card">
+                        <div class="mission-stamp">MISSION_048</div>
+                        <div class="dossier-id">ID: SF-048</div>
+                        <h3 class="dossier-title">Mission 048</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-047" class="dossier-card">
+                        <div class="mission-stamp">MISSION_047</div>
+                        <div class="dossier-id">ID: SF-047</div>
+                        <h3 class="dossier-title">Mission 047</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-046" class="dossier-card">
+                        <div class="mission-stamp">MISSION_046</div>
+                        <div class="dossier-id">ID: SF-046</div>
+                        <h3 class="dossier-title">Mission 046</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-045" class="dossier-card">
+                        <div class="mission-stamp">MISSION_045</div>
+                        <div class="dossier-id">ID: SF-045</div>
+                        <h3 class="dossier-title">Mission 045</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-044.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_044</div>
+                        <div class="dossier-id">ID: SF-044.5</div>
+                        <h3 class="dossier-title">Mission 044.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-044" class="dossier-card">
+                        <div class="mission-stamp">MISSION_044</div>
+                        <div class="dossier-id">ID: SF-044</div>
+                        <h3 class="dossier-title">Mission 044</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-043" class="dossier-card">
+                        <div class="mission-stamp">MISSION_043</div>
+                        <div class="dossier-id">ID: SF-043</div>
+                        <h3 class="dossier-title">Mission 043</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-042" class="dossier-card">
+                        <div class="mission-stamp">MISSION_042</div>
+                        <div class="dossier-id">ID: SF-042</div>
+                        <h3 class="dossier-title">Mission 042</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-041" class="dossier-card">
+                        <div class="mission-stamp">MISSION_041</div>
+                        <div class="dossier-id">ID: SF-041</div>
+                        <h3 class="dossier-title">Mission 041</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-040.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_040</div>
+                        <div class="dossier-id">ID: SF-040.5</div>
+                        <h3 class="dossier-title">Mission 040.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-040" class="dossier-card">
+                        <div class="mission-stamp">MISSION_040</div>
+                        <div class="dossier-id">ID: SF-040</div>
+                        <h3 class="dossier-title">Mission 040</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-039" class="dossier-card">
+                        <div class="mission-stamp">MISSION_039</div>
+                        <div class="dossier-id">ID: SF-039</div>
+                        <h3 class="dossier-title">Mission 039</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-038" class="dossier-card">
+                        <div class="mission-stamp">MISSION_038</div>
+                        <div class="dossier-id">ID: SF-038</div>
+                        <h3 class="dossier-title">Mission 038</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-037.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_037</div>
+                        <div class="dossier-id">ID: SF-037.5</div>
+                        <h3 class="dossier-title">Mission 037.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-037" class="dossier-card">
+                        <div class="mission-stamp">MISSION_037</div>
+                        <div class="dossier-id">ID: SF-037</div>
+                        <h3 class="dossier-title">Mission 037</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-036" class="dossier-card">
+                        <div class="mission-stamp">MISSION_036</div>
+                        <div class="dossier-id">ID: SF-036</div>
+                        <h3 class="dossier-title">Mission 036</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-035" class="dossier-card">
+                        <div class="mission-stamp">MISSION_035</div>
+                        <div class="dossier-id">ID: SF-035</div>
+                        <h3 class="dossier-title">Mission 035</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-034" class="dossier-card">
+                        <div class="mission-stamp">MISSION_034</div>
+                        <div class="dossier-id">ID: SF-034</div>
+                        <h3 class="dossier-title">Mission 034</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-033" class="dossier-card">
+                        <div class="mission-stamp">MISSION_033</div>
+                        <div class="dossier-id">ID: SF-033</div>
+                        <h3 class="dossier-title">Mission 033</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-032" class="dossier-card">
+                        <div class="mission-stamp">MISSION_032</div>
+                        <div class="dossier-id">ID: SF-032</div>
+                        <h3 class="dossier-title">Mission 032</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-031" class="dossier-card">
+                        <div class="mission-stamp">MISSION_031</div>
+                        <div class="dossier-id">ID: SF-031</div>
+                        <h3 class="dossier-title">Mission 031</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-030.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_030</div>
+                        <div class="dossier-id">ID: SF-030.5</div>
+                        <h3 class="dossier-title">Mission 030.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-030" class="dossier-card">
+                        <div class="mission-stamp">MISSION_030</div>
+                        <div class="dossier-id">ID: SF-030</div>
+                        <h3 class="dossier-title">Mission 030</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-029.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_029</div>
+                        <div class="dossier-id">ID: SF-029.1</div>
+                        <h3 class="dossier-title">Mission 029.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-029" class="dossier-card">
+                        <div class="mission-stamp">MISSION_029</div>
+                        <div class="dossier-id">ID: SF-029</div>
+                        <h3 class="dossier-title">Mission 029</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-028" class="dossier-card">
+                        <div class="mission-stamp">MISSION_028</div>
+                        <div class="dossier-id">ID: SF-028</div>
+                        <h3 class="dossier-title">Mission 028</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-027.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_027</div>
+                        <div class="dossier-id">ID: SF-027.5</div>
+                        <h3 class="dossier-title">Mission 027.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-027" class="dossier-card">
+                        <div class="mission-stamp">MISSION_027</div>
+                        <div class="dossier-id">ID: SF-027</div>
+                        <h3 class="dossier-title">Mission 027</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-026" class="dossier-card">
+                        <div class="mission-stamp">MISSION_026</div>
+                        <div class="dossier-id">ID: SF-026</div>
+                        <h3 class="dossier-title">Mission 026</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-025" class="dossier-card">
+                        <div class="mission-stamp">MISSION_025</div>
+                        <div class="dossier-id">ID: SF-025</div>
+                        <h3 class="dossier-title">Mission 025</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-024.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_024</div>
+                        <div class="dossier-id">ID: SF-024.5</div>
+                        <h3 class="dossier-title">Mission 024.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-024" class="dossier-card">
+                        <div class="mission-stamp">MISSION_024</div>
+                        <div class="dossier-id">ID: SF-024</div>
+                        <h3 class="dossier-title">Mission 024</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-023.6" class="dossier-card">
+                        <div class="mission-stamp">MISSION_023</div>
+                        <div class="dossier-id">ID: SF-023.6</div>
+                        <h3 class="dossier-title">Mission 023.6</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-023.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_023</div>
+                        <div class="dossier-id">ID: SF-023.5</div>
+                        <h3 class="dossier-title">Mission 023.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-023" class="dossier-card">
+                        <div class="mission-stamp">MISSION_023</div>
+                        <div class="dossier-id">ID: SF-023</div>
+                        <h3 class="dossier-title">Mission 023</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-022" class="dossier-card">
+                        <div class="mission-stamp">MISSION_022</div>
+                        <div class="dossier-id">ID: SF-022</div>
+                        <h3 class="dossier-title">Mission 022</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-021" class="dossier-card">
+                        <div class="mission-stamp">MISSION_021</div>
+                        <div class="dossier-id">ID: SF-021</div>
+                        <h3 class="dossier-title">Mission 021</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-020" class="dossier-card">
+                        <div class="mission-stamp">MISSION_020</div>
+                        <div class="dossier-id">ID: SF-020</div>
+                        <h3 class="dossier-title">Mission 020</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-019" class="dossier-card">
+                        <div class="mission-stamp">MISSION_019</div>
+                        <div class="dossier-id">ID: SF-019</div>
+                        <h3 class="dossier-title">Mission 019</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-018.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_018</div>
+                        <div class="dossier-id">ID: SF-018.5</div>
+                        <h3 class="dossier-title">Mission 018.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-018" class="dossier-card">
+                        <div class="mission-stamp">MISSION_018</div>
+                        <div class="dossier-id">ID: SF-018</div>
+                        <h3 class="dossier-title">Mission 018</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-017.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_017</div>
+                        <div class="dossier-id">ID: SF-017.5</div>
+                        <h3 class="dossier-title">Mission 017.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-017" class="dossier-card">
+                        <div class="mission-stamp">MISSION_017</div>
+                        <div class="dossier-id">ID: SF-017</div>
+                        <h3 class="dossier-title">Mission 017</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-016" class="dossier-card">
+                        <div class="mission-stamp">MISSION_016</div>
+                        <div class="dossier-id">ID: SF-016</div>
+                        <h3 class="dossier-title">Mission 016</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-015.6" class="dossier-card">
+                        <div class="mission-stamp">MISSION_015</div>
+                        <div class="dossier-id">ID: SF-015.6</div>
+                        <h3 class="dossier-title">Mission 015.6</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-015.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_015</div>
+                        <div class="dossier-id">ID: SF-015.5</div>
+                        <h3 class="dossier-title">Mission 015.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-015" class="dossier-card">
+                        <div class="mission-stamp">MISSION_015</div>
+                        <div class="dossier-id">ID: SF-015</div>
+                        <h3 class="dossier-title">Mission 015</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-014" class="dossier-card">
+                        <div class="mission-stamp">MISSION_014</div>
+                        <div class="dossier-id">ID: SF-014</div>
+                        <h3 class="dossier-title">Mission 014</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-013" class="dossier-card">
+                        <div class="mission-stamp">MISSION_013</div>
+                        <div class="dossier-id">ID: SF-013</div>
+                        <h3 class="dossier-title">Mission 013</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-012" class="dossier-card">
+                        <div class="mission-stamp">MISSION_012</div>
+                        <div class="dossier-id">ID: SF-012</div>
+                        <h3 class="dossier-title">Mission 012</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-011.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_011</div>
+                        <div class="dossier-id">ID: SF-011.5</div>
+                        <h3 class="dossier-title">Mission 011.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-011" class="dossier-card">
+                        <div class="mission-stamp">MISSION_011</div>
+                        <div class="dossier-id">ID: SF-011</div>
+                        <h3 class="dossier-title">Mission 011</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-010" class="dossier-card">
+                        <div class="mission-stamp">MISSION_010</div>
+                        <div class="dossier-id">ID: SF-010</div>
+                        <h3 class="dossier-title">Mission 010</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-009" class="dossier-card">
+                        <div class="mission-stamp">MISSION_009</div>
+                        <div class="dossier-id">ID: SF-009</div>
+                        <h3 class="dossier-title">Mission 009</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-008.5" class="dossier-card">
+                        <div class="mission-stamp">MISSION_008</div>
+                        <div class="dossier-id">ID: SF-008.5</div>
+                        <h3 class="dossier-title">Mission 008.5</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-008" class="dossier-card">
+                        <div class="mission-stamp">MISSION_008</div>
+                        <div class="dossier-id">ID: SF-008</div>
+                        <h3 class="dossier-title">Mission 008</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-007" class="dossier-card">
+                        <div class="mission-stamp">MISSION_007</div>
+                        <div class="dossier-id">ID: SF-007</div>
+                        <h3 class="dossier-title">Mission 007</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-006" class="dossier-card">
+                        <div class="mission-stamp">MISSION_006</div>
+                        <div class="dossier-id">ID: SF-006</div>
+                        <h3 class="dossier-title">Mission 006</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-005.5-Omake" class="dossier-card">
+                        <div class="mission-stamp">MISSION_005</div>
+                        <div class="dossier-id">ID: SF-005.5-Omake</div>
+                        <h3 class="dossier-title">Mission 005.5 [SPECIAL MISSION]</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-005" class="dossier-card">
+                        <div class="mission-stamp">MISSION_005</div>
+                        <div class="dossier-id">ID: SF-005</div>
+                        <h3 class="dossier-title">Mission 005</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-004" class="dossier-card">
+                        <div class="mission-stamp">MISSION_004</div>
+                        <div class="dossier-id">ID: SF-004</div>
+                        <h3 class="dossier-title">Mission 004</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-003" class="dossier-card">
+                        <div class="mission-stamp">MISSION_003</div>
+                        <div class="dossier-id">ID: SF-003</div>
+                        <h3 class="dossier-title">Mission 003</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-002" class="dossier-card">
+                        <div class="mission-stamp">MISSION_002</div>
+                        <div class="dossier-id">ID: SF-002</div>
+                        <h3 class="dossier-title">Mission 002</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-001.2" class="dossier-card">
+                        <div class="mission-stamp">MISSION_001</div>
+                        <div class="dossier-id">ID: SF-001.2</div>
+                        <h3 class="dossier-title">Mission 001.2</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-001.1" class="dossier-card">
+                        <div class="mission-stamp">MISSION_001</div>
+                        <div class="dossier-id">ID: SF-001.1</div>
+                        <h3 class="dossier-title">Mission 001.1</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-001" class="dossier-card">
+                        <div class="mission-stamp">MISSION_001</div>
+                        <div class="dossier-id">ID: SF-001</div>
+                        <h3 class="dossier-title">Mission 001</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
+                <div class="dossier-card-wrap">
+                    <a href="manga/Spy X Family/chapter-000" class="dossier-card">
+                        <div class="mission-stamp">MISSION_000</div>
+                        <div class="dossier-id">ID: SF-000</div>
+                        <h3 class="dossier-title">Mission 000</h3>
+                        <div class="dossier-meta">
+                            <span>Status: <span style="color: #4CAF50;">ARCHIVED</span></span>
+                            <span>Level: <span style="color: #E9D5CA;">SECURE</span></span>
+                        </div>
+                        <div class="dossier-arrow">→</div>
+                    </a>
+                </div>
